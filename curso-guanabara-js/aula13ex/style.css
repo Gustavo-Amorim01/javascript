@@ -1,0 +1,29 @@
+@charset "UTF8";
+
+body {
+    background-color: blueviolet;
+}
+
+h1 {
+    color: #fff;
+    text-align: center;
+    margin-top: 40px
+}
+
+section {
+    background-color: #fff;
+    width: 500px;
+    margin: auto;
+    border-radius: 10px;
+    padding: 10px;
+}
+
+#nasc {
+    margin-top: 0px;
+}
+
+footer {
+    text-align: center;
+    margin-top: 20px;
+    color: #fff;
+}
